@@ -6,6 +6,7 @@ general_3: "处理查询时发生了一些**异常**\n\n异常类型：- {0}"
 general_4: "您是此群组中的匿名管理员！\n请关闭匿名管理员"
 general_5: "您需要成为语音聊天权限的管理员才能执行此操作"
 general_6: "Bot 当前并未在语音聊天中播放媒体"
+force_sub ："您好 {}，请在使用此机器人之前先加入我们的群组或频道"
 #Classes - Telegram.py
 tg_1: "Bot 当前下行负载**过高**\n\n**请等待：** {0} (__expected time__)"
 tg_2: "尝试从Telegram中下载媒体时失败"
